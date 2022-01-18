@@ -1,5 +1,5 @@
 {
-	"name": "hooks",
+	"name": "@aistrifish/hooks",
 	"version": "0.0.1",
 	"description": "> TODO: description",
 	"author": "刘豪 <lh@dataqin.com>",
@@ -23,5 +23,6 @@
 	"dependencies": {
 		"react": "16.8.0",
 		"webpack-merge": "^5.8.0"
-	}
+	},
+	"gitHead": "53e51f2e2f6f5603c4644eaa4f439f0623272618"
 }
