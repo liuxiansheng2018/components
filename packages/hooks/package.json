@@ -1,0 +1,27 @@
+{
+	"name": "hooks",
+	"version": "0.0.0",
+	"description": "> TODO: description",
+	"author": "刘豪 <lh@dataqin.com>",
+	"homepage": "",
+	"license": "ISC",
+	"main": "lib/hooks.js",
+	"directories": {
+		"lib": "lib",
+		"test": "__tests__"
+	},
+	"files": [
+		"lib"
+	],
+	"publishConfig": {
+		"registry": "https://packages.aliyun.com/618a11ad041d450d2c253ba4/npm/npm-registry/"
+	},
+	"peerDependencies": {
+		"react": "^16.8.0 || ^17.0.0",
+		"react-router": "^5.0.0 || ^6.0.0"
+	},
+	"dependencies": {
+		"react": "16.8.0",
+		"webpack-merge": "^5.8.0"
+	}
+}
