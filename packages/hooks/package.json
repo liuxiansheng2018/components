@@ -1,6 +1,6 @@
 {
 	"name": "hooks",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "> TODO: description",
 	"author": "刘豪 <lh@dataqin.com>",
 	"homepage": "",
@@ -14,8 +14,8 @@
 		"lib"
 	],
 	"publishConfig": {
-    "registry": "https://registry.npmjs.com/"
-  },
+		"registry": "https://registry.npmjs.com/"
+	},
 	"peerDependencies": {
 		"react": "^16.8.0 || ^17.0.0",
 		"react-router": "^5.0.0 || ^6.0.0"
