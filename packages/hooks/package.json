@@ -14,8 +14,8 @@
 		"lib"
 	],
 	"publishConfig": {
-		"registry": "https://packages.aliyun.com/618a11ad041d450d2c253ba4/npm/npm-registry/"
-	},
+    "registry": "https://registry.npmjs.com/"
+  },
 	"peerDependencies": {
 		"react": "^16.8.0 || ^17.0.0",
 		"react-router": "^5.0.0 || ^6.0.0"
