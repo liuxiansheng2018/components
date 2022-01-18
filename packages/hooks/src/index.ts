@@ -13,5 +13,4 @@ const useModal = (initialValue:any) => {
 
   return [modalData, closeModal, openModel]
 }
-
 export default useModal
