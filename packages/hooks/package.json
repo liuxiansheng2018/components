@@ -1,5 +1,6 @@
 {
 	"name": "aistrifish-hooks",
+  "private": "false",
 	"version": "0.0.7",
 	"description": "> TODO: description",
 	"author": "刘豪 <lh@dataqin.com>",
@@ -24,5 +25,6 @@
 		"react": "16.8.0",
 		"webpack-merge": "^5.8.0"
 	},
-	"gitHead": "3525519a4c9dea8994b54037cefc9fea8e89167f"
+
+	"gitHead": "940fd897e0007a631cdcab5a899030f7fbd2864f"
 }
