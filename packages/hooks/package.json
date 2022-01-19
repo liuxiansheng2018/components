@@ -1,6 +1,5 @@
 {
 	"name": "aistrifish-hooks",
-	"private": "false",
 	"version": "0.0.8",
 	"description": "> TODO: description",
 	"author": "刘豪 <lh@dataqin.com>",
@@ -14,9 +13,7 @@
 	"files": [
 		"lib"
 	],
-	"publishConfig": {
-		"registry": "https://registry.npmjs.com/"
-	},
+	
 	"peerDependencies": {
 		"react": "^16.8.0 || ^17.0.0",
 		"react-router": "^5.0.0 || ^6.0.0"
@@ -24,6 +21,5 @@
 	"dependencies": {
 		"react": "16.8.0",
 		"webpack-merge": "^5.8.0"
-	},
-	"gitHead": "940fd897e0007a631cdcab5a899030f7fbd2864f"
+	}
 }

@@ -1,6 +1,5 @@
 {
   "version": "1.0.0",
-  "private": "false",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
