@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "name": "aistrifish",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
